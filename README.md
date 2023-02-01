@@ -1,2 +1,1 @@
-# Visels.github.io
-UON-powernet website building progress 
+# Visels.github.io website building progress 
